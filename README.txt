@@ -1,4 +1,4 @@
-# README.txt
+# GIT Demo
 This is a file.
-## Website
+## Website Contents
 1. index.html
